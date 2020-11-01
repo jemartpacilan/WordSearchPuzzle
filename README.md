@@ -1,4 +1,4 @@
-# WORD PUZZLE
+# WORD SEARCH PUZZLE
 
 Python program that locates words in a 2 dimensional grid of letters and outputs the start
 and end coordinates for each of the words found.
