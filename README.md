@@ -7,7 +7,7 @@ and end coordinates for each of the words found.
 
 Python 3.x
 
-## Usage
+## Usage (Command Line Execution)
 
 ```python
 python WordSearch.py name_of_input_file
@@ -18,3 +18,11 @@ python WordSearch.py name_of_input_file
 ```python
 python WordSearchTest.py
 ```
+
+## File Structure
+
+WordSearch.py     <--------  Main python program
+WordSearchTest.py <--------  Executes unit tests for the main python program
+animals.pzl          |-----
+lostDuck.pzl      <--|-----  Input files for test 
+search.pzl           |-----
